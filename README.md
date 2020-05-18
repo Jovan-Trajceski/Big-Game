@@ -20,8 +20,12 @@ You can download the presentation deck by clicking [here.](Presentation/TV%2C%20
 # Outcome
 
 1. Viewers
+
+
 ![](img/1.png)
 
 
 2. Ratings
+
+
 ![](img/2.png)
